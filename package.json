@@ -1,11 +1,14 @@
 {
   "name": "algoritimo---prova",
   "version": "1.0.0",
-  "description": "Prova de algorítimo - Avaliação de 60 pontos ",
+  "description": "Questão 1 e 2 da prova de P1 - Algoritmos ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Luciano Junior Guedes Martins",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
